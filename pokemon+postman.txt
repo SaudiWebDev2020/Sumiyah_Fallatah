@@ -1,0 +1,7 @@
+Requests Made:
+
+1- https://pokeapi.co/api/v2/pokemon/bulbasaur
+2- https://pokeapi.co/api/v2/pokemon/pikahcu
+3- https://pokeapi.co/api/v2/pokemon/2 his name is ivysaur
+4- https://pokeapi.co/api/v2/pokemon/82 his name is analytic
+5- https://pokeapi.co/api/v2/pokemon/rattata 
