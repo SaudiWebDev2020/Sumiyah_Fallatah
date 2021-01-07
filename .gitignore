@@ -14,3 +14,8 @@ Weekly_Challenges/Week9/w9d4.js
 Weekly_Challenges/Week11/w11d2.class
 Weekly_Challenges/Week9/w9d3.js
 Weekly_Challenges/Week10/dec2hex.js
+*.class
+bin/
+.metadata/
+.classpath
+.project
